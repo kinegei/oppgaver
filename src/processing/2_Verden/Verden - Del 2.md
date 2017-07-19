@@ -484,7 +484,7 @@ Dette er ekstraoppgaver som du kan gjøre dersom du vil.
 - [ ] Lag firkanter som du bruker til å skille fylkene i Norge.
 - [ ] Skriv kode som sjekker om datamusa er innenfor fylkene i Norge.
 
-## Helg andre oppgaver: {.check}
+## Helt andre oppgaver: {.check}
 - [ ] Finn et kartet for Game of Thrones og lag spill hvor folk kan gjette hvor de forskjellige folka hører hjemme.
 - [ ] Finn et bilde av forskjellige dyr, lag en liste med navna på dyrene på engelsk, eller et helt annet språk. Lag grenser rundt dyrene og la folk gjette hva de forskjellige dyrene heter på forskjellige språk.
 - [ ] Finn et bilde av en menneskekropp som er laga for undervisning, slik at man kan se hva som er inni, slik som hjertet, lungene, nyrene, ribbein, og lignende. Lag grenser rundt de forskjellige tingene og la folk gjette hvor de er.
